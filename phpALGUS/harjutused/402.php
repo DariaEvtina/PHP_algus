@@ -20,7 +20,7 @@
 $i1=1;
 while($i1<=20){
     echo "<input type='text' id=t'$i1' name='text[]' >";
-    echo "<label for='$i1'>cell ".$i1."</label>"."<br>";
+    echo "<label for=t'$i1'>cell ".$i1."</label>"."<br>";
     $i1++;
 }
 ?>
@@ -29,7 +29,7 @@ while($i1<=20){
 $i2=1;
 while($i2<=20){
     echo "<input type='radio' id=r'$i2' name='radio[]' value='$i2'>";
-    echo "<label for='$i2'>radio ".$i2."</label>"."<br>";
+    echo "<label for=r'$i2'>radio ".$i2."</label>"."<br>";
     $i2++;
 }
 ?>
