@@ -45,7 +45,7 @@ echo "Kui esimene avr jagame teise arvuga, siis vastus on ". ($arv2/$arv1);
 <p>Tee tsükliga 20 "checkboxi". Pane neile kõigile oma nimi stiilis box[1], box[2], jne.<br>
     Tee tsükliga 20 "teksti lahtrit". Pane neile kõigile oma nimi stiilis cell[1], cell[2], jne.<br>
     Tee tsükliga 20 "radio buttonit". Pane neile kõigile üks nimi "radio" ja erinevad väärtused stiilis value1, value2 jne.</p>
-<a href="402/"> Ülesanne 402</a>
+<a href="harjutused/402.php"> Ülesanne 402</a>
 
 <p>================================</p><br>
 <h2><b>Ülesanne 403</b></h2><br>
