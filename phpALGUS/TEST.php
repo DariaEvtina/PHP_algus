@@ -37,7 +37,7 @@ echo "Kui esimene avr jagame teise arvuga, siis vastus on ". ($arv2/$arv1);
     Aadressi kuvamiseks kasuta &#60; i &#62; tagi.<br>
     Pildi kuvamiseks kasuta &#60; img src= &#62; tagi.<br>
     Kodulehe lingi kuvamiseks kasuta &#60; a href= &#62; tagi.</p>
-<a href="401/"> Ülesanne 401</a>
+<a href="harjutused/401.php"> Ülesanne 401</a>
 
 <p>================================</p><br>
 <h2><b>Ülesanne 402</b></h2><br>
