@@ -22,7 +22,7 @@ echo "<br>";
 echo "Kui esimene avr jagame teise arvuga, siis vastus on ". ($arv2/$arv1);
 ?>
 <h1>Veebiprogrameerimine PHP </h1>
-
+    <a href="https://github.com/DariaEvtina/PHP_algus/" target="_blank">GitHub</a>
 <a href="http://students.tmk.edu.ee/php/materjal/php_syntax.php#PHP%20s%C3%BCntaks/" target="_blank">PHP süntaks näidistega</a>
 
 <h1> PHP harjutused</h1>
