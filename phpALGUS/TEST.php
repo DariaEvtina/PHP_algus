@@ -10,19 +10,12 @@ echo "<h1>Tere hommikust!</h1>";
 $texts="Täna on esimene PHP tund";
 echo $texts;
 echo "<br>";
-echo "<h2>Matemaatika tehed - Mõistatus</h2>";
-echo "<br>";
-echo"<h3>Arva ära kaks arvu!</h3>";
-$arv1=3;
-$arv2=15;
-//kahe arvude liitmine"+"
-echo "Kui liidame kokku, vastus on ".($arv1+$arv2);
-//jagamine "/"
-echo "<br>";
-echo "Kui esimene avr jagame teise arvuga, siis vastus on ". ($arv2/$arv1);
 ?>
+<a href="harjutused/moistatus.php" target="_blank"> Mõistatus </a>
 <h1>Veebiprogrameerimine PHP </h1>
 
+<a href="https://github.com/DariaEvtina/PHP_algus/" target="_blank">PHP ülesanned GitHub</a>
+<br>
 <a href="http://students.tmk.edu.ee/php/materjal/php_syntax.php#PHP%20s%C3%BCntaks/" target="_blank">PHP süntaks näidistega</a>
 
 <h1> PHP harjutused</h1>
